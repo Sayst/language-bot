@@ -14,7 +14,7 @@ Telegram Translate Bot
 
 Клонируйте репозиторий или загрузите файлы:
 
-git clone <your-repo-url>
+git clone <https://github.com/Sayst/language-bot.git>
 cd <project-folder>
 
 
